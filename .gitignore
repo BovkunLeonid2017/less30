@@ -1,0 +1,6 @@
+build/
+node_modules/
+psd/
+*.zip
+*.rar
+*.7z
